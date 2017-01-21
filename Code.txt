@@ -1,0 +1,2 @@
+Good_guy var_good = true
+Bad_guy var_good = false
